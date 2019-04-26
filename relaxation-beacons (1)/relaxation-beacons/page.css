@@ -6,8 +6,12 @@ html, body {
 body {
 }
 
-.my-page{
+.my-page {
 	display: none;
+
+}
+
+#page-default {
 	background-image: url("photos/flag.png");
 	height: 500px;
 	background-position: center;
@@ -34,7 +38,7 @@ body {
 }
 
 
-.my-checkpoint {
+.my-checkpoint img {
 	width: 100px;
 	height: auto;
 }
