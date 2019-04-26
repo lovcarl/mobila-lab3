@@ -9,20 +9,20 @@ app.beaconRegions =
 	{
 		id: 'page-feet',
 		uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D',
-		major: 3560,
-		minor: 36810
+		major: 56506,
+		minor: 14941
 	},
 	{
 		id: 'page-shoulders',
 		uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D',
-		major: 57356,
-		minor: 14220
+		major: 22460,
+		minor: 60720
 	},
 	{
 		id: 'page-face',
 		uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D',
-		major: 57272,
-		minor: 20467
+		major: 64748,
+		minor: 20535
 	}
 ]
 
