@@ -2,6 +2,7 @@ html, body
 {
 	margin: 0px;
 	padding: 0px;
+	background-color: orange;
 }
 
 .my-page
@@ -13,11 +14,7 @@ html, body
 {
 }
 
-.my-header-image
-{
-	width: 100%;
-	height: auto;
-}
+
 
 .my-icon-back
 {
@@ -33,6 +30,7 @@ html, body
 	margin: 10px 20px;
 	padding: 0;
 	font-family: sans-serif;
+	color: white;
 }
 
 .my-content h1
