@@ -13,13 +13,13 @@ app.beaconRegions =
 		minor: 14941
 	},
 	{
-		id: 'page-shoulders',
+		id: 'checkpoint-two',
 		uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D',
 		major: 22460,
 		minor: 60720
 	},
 	{
-		id: 'page-face',
+		id: 'checkpoint-three',
 		uuid:'B9407F30-F5F8-466E-AFF9-25556B57FE6D',
 		major: 64748,
 		minor: 20535
