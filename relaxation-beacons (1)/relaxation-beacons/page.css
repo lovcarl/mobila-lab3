@@ -16,14 +16,6 @@ body {
 	position: relative;
 }
 
-.my-icon-back{
-	position: absolute;
-	left: 10px;
-	top: 10px;
-	width: 12%;
-	height: auto;
-}
-
 .my-content{
 	margin: 10px 20px;
 	padding: 0;
@@ -39,4 +31,10 @@ body {
 .my-content p, .my-content ul
 {
 	font-size: 120%;
+}
+
+
+.my-checkpoint {
+	width: 30%;
+	height: auto;
 }
